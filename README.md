@@ -1,4 +1,4 @@
-##### Hi there 👋, I´m Liz
+# Hi there 👋, I´m Liz
 
 - 🌱 I’m currently learning 
 <!--
